@@ -1,0 +1,20 @@
+/* Colors */
+.text-special {
+  color: #0cccc4;
+}
+.text-danger {
+  color: #e0454b;
+}
+.text-ash {
+  color: #818088;
+}
+.bg-color {
+  color: #1b1a29;
+}
+
+.logo {
+  width: 300px;
+}
+.container {
+  margin: 30px 30px;
+}
